@@ -1,1 +1,1 @@
-# es6-practise-bangla
+# es6-practise-bangla (batch-1)
